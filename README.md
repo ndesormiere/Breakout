@@ -1,3 +1,3 @@
 # Breakout
 
-Breakout Game using Sprite Kit and Swift
+iOS game using Sprite Kit and Swift
